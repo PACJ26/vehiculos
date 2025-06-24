@@ -1,0 +1,24 @@
+# Ignorar archivo de conexión a la base de datos
+database/conexion.php
+
+# Ignorar archivos de configuración local
+*.env
+*.config.local
+
+# Ignorar archivos y carpetas generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar dependencias y carpetas de entorno
+/vendor/
+/node_modules/
+
+# Ignorar archivos de caché y logs
+*.log
+/logs/
+/cache/
+
+# Ignorar archivos temporales
+*.tmp
+*.bak
+*.swp

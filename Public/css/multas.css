@@ -1,0 +1,19 @@
+.badge-pendiente {
+    background-color: #F2A71B;
+    color: #2c3e50;
+}
+
+.badge-pagado {
+    background-color: #28a745;
+    color: white;
+}
+
+.badge-anulado {
+    background-color: #dc3545;
+    color: white;
+}
+
+.badge-expirado {
+    background-color: #6c757d;
+    color: white;
+}

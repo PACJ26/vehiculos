@@ -1,0 +1,14 @@
+.badge-vigente {
+    background-color: #28a745;
+    color: white;
+}
+
+.badge-expirado {
+    background-color: #6c757d;
+    color: white;
+}
+
+.badge-cancelado {
+    background-color: #dc3545;
+    color: white;
+}
